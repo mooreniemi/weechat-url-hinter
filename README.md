@@ -2,23 +2,11 @@
 
 Weechat url hinter is a plugin that open a url on weehcat buffer without touching mouse.
 
-This plugin is available in only Mac OSX.
+This plugin is the Ubuntu-friendly version.
 
 # Requirement
 
 * Weechat (with ruby)
-
-# Installation
-
-Url hinter is not still registered as an official script in http://www.weechat.org/scripts/ .
-You can't install from `/script install` command now, so please execute follow command in
-your terminal.
-
-```console
-$ curl -o ~/.weechat/ruby/autoload/url_hinter.rb https://raw.githubusercontent.com/tkengo/weechat-url-hinter/master/weechat-url-hinter.rb
-```
-
-And then, restart weechat.
 
 # Usage
 
